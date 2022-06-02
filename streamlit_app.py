@@ -1,2 +1,2 @@
 import streamlit
-strealit.title('i love nubby')
+streamlit.title('i love nubby')
